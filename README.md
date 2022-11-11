@@ -55,6 +55,7 @@
 - [crew3](https://crew3.xyz/) The future of communities
 - [TestApp.io](https://testapp.io/) Built by developers to solve the pain of app distribution for development teams 💪 
 - [mailerlite](https://www.mailerlite.com/) Digital marketing tools to grow your audience faster and drive revenue smarter
+- [Linx](https://linx.software/) Build low-code backend solutions such as APIs, integrations and automations.
 
 
 ### web3
